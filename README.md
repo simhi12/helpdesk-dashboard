@@ -1,4 +1,4 @@
-![Helpdesk Dashboard Screenshot](screenshot.png)
+![Helpdesk Dashboard Screenshot](screenshot.PNG)
 # Helpdesk Technician Dashboard
 
 Windows helpdesk dashboard written in Python using Tkinter and psutil.
@@ -39,3 +39,5 @@ Windows helpdesk dashboard written in Python using Tkinter and psutil.
 - `pip install psutil`
 
 ## Run
+
+[def]: screenshot.png

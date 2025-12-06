@@ -42,4 +42,5 @@ Windows helpdesk dashboard written in Python using Tkinter and psutil.
 
 ## Run
 
-[def]: screenshot.png
+### Option 1: Run the EXE (recommended)
+Download the standalone EXE and run it

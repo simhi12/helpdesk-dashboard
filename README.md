@@ -1,5 +1,3 @@
-## 🔽 Download EXE
-https://github.com/simhi12/helpdesk-dashboard/releases/latest/download/helpdesk_dashboard.exe
 ![Helpdesk Dashboard Screenshot](screenshot.PNG)
 # Helpdesk Technician Dashboard
 
@@ -40,6 +38,8 @@ Windows helpdesk dashboard written in Python using Tkinter and psutil.
 - Python 3
 - `pip install psutil`
 
+## 🔽 Download EXE
+https://github.com/simhi12/helpdesk-dashboard/releases/latest/download/helpdesk_dashboard.exe
 ## Run
 
 ### Option 1: Run the EXE (recommended)

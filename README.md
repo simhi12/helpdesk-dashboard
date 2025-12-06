@@ -1,4 +1,6 @@
-![Helpdesk Dashboard Screenshot](screenshot.png)
+## 🔽 Download EXE
+https://github.com/simhi12/helpdesk-dashboard/releases/latest/download/helpdesk_dashboard.exe
+![Helpdesk Dashboard Screenshot](screenshot.PNG)
 # Helpdesk Technician Dashboard
 
 Windows helpdesk dashboard written in Python using Tkinter and psutil.

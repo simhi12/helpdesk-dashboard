@@ -1,12 +1,12 @@
 ![Helpdesk Dashboard](screenshot.png)
-Helpdesk Technician Dashboard v2.0.0
+# Helpdesk Technician Dashboard v2.0.0
 
 A modern Windows Helpdesk / IT Support Dashboard, designed to provide real-time system visibility, quick diagnostics, automated data collection, and rapid access to built-in Windows tools used for troubleshooting.
 
 This utility is intended for helpdesk technicians and desktop support engineers who need a fast, consistent, and reliable way to gather system intelligence during troubleshooting.
 
-🚀 Features
-🔴 Live System Monitoring
+# 🚀 Features
+# 🔴 Live System Monitoring
 
 Continuously displays:
 
@@ -24,7 +24,7 @@ IP address
 
 Displayed in a clean GUI for quick assessment.
 
-🔍 Diagnostics
+# 🔍 Diagnostics
 
 One-click diagnostic functions:
 
@@ -41,7 +41,7 @@ Check RAM Health
 
 Check SMART Status
 
-📦 Full Diagnostic Collection (Automated)
+# 📦 Full Diagnostic Collection (Automated)
 
 Creates a timestamped ZIP report on the desktop containing:
 
@@ -55,7 +55,7 @@ Security Log events:
 
 4672 – Admin Granted
 
-System Events:
+# System Events:
 
 18 – WHEA Hardware Errors
 
@@ -81,7 +81,7 @@ SMART_Status.txt
 
 Useful for collecting information during troubleshooting sessions.
 
-🔧 Fix & Repair Tools
+# 🔧 Fix & Repair Tools
 
 Quick recovery actions:
 
@@ -89,7 +89,7 @@ Flush DNS
 
 Clear Temp Files
 
-🧰 Windows Tools (Quick Launch)
+# 🧰 Windows Tools (Quick Launch)
 
 Instant access to essential applications:
 
@@ -115,7 +115,7 @@ Troubleshooter
 
 All launched using system handlers (no hard-coded paths).
 
-🎯 Why This Tool?
+# 🎯 Why This Tool?
 
 This dashboard standardizes basic diagnostic procedures and saves time during:
 
@@ -133,7 +133,7 @@ Remote assistance sessions
 
 Instead of typing commands and copying logs manually — everything is one click.
 
-🛡️ Technical Overview
+# 🛡️ Technical Overview
 
 Language: Python 3
 
@@ -145,11 +145,11 @@ OS Compatibility: Windows 10 / Windows 11
 
 Packaging: PyInstaller (optional)
 
-📥 Installation
+# 📥 Installation
 Requirements
 pip install psutil
 
-▶️ How to Run
+# ▶️ How to Run
 python helpdesk_dashboard.py
 
 
@@ -157,7 +157,7 @@ or:
 
 py helpdesk_dashboard.py
 
-📦 Build EXE (Optional)
+# 📦 Build EXE (Optional)
 pip install pyinstaller
 pyinstaller --noconsole --onefile helpdesk_dashboard.py
 
@@ -166,7 +166,7 @@ The EXE will be created in:
 
 dist/helpdesk_dashboard.exe
 
-🧪 Example Diagnostic Output Structure
+# 🧪 Example Diagnostic Output Structure
 Desktop/
  └─ HelpdeskReport_2025-01-08_23-11-55/
     ├─ Security_Logons_4624.txt
@@ -185,13 +185,13 @@ Desktop/
     ├─ SMART_Status.txt
     └─ HelpdeskReport_2025-01-08_23-11-55.zip
 
-🖼️ Screenshot
+# 🖼️ Screenshot
 
 Example UI preview:
 
 ![Helpdesk Dashboard](screenshot.png)
 
-🧠 Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 This project shows:
 
@@ -213,27 +213,27 @@ Clean, modular code structure
 
 A very attractive project for Helpdesk / IT Support / Desktop Support roles.
 
-🏷️ Version
+# 🏷️ Version
 Helpdesk Technician Dashboard
 Version: v2.0.0
 Author: Lior Simhi
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This tool is for educational and internal support purposes only.
 Running some commands may require Administrator privileges depending on Windows configuration.
 
-❤️ Contributions
+# ❤️ Contributions
 
 Feature suggestions and improvements are welcome.
 Open an issue or submit a pull-request.
 
-⭐ If You Like It
+# ⭐ If You Like It
 
 Support by:
 
-⭐ Starring the repository
+# ⭐ Starring the repository
 
-💬 Sharing with other technicians
+# 💬 Sharing with other technicians
 
-🛠️ Improving the code
+# 🛠️ Improving the code

@@ -1,4 +1,3 @@
-![Helpdesk Dashboard](screenshot.PNG)
 # Helpdesk Technician Dashboard v2.0.0
 
 A modern Windows Helpdesk / IT Support Dashboard, designed to provide real-time system visibility, quick diagnostics, automated data collection, and rapid access to built-in Windows tools used for troubleshooting.

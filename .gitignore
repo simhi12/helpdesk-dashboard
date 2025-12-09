@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.spec
+*.ini
+desktop.ini
+
+dist/
+build/
+*.exe
+
+# Virtual env
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# PyInstaller dirs
+*.egg-info/
